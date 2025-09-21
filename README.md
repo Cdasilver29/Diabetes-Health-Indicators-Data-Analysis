@@ -1,5 +1,5 @@
 # Diabetes-Health-Indicators-Data-Analysis
-![Diabetes](images/diabetes-project.jpg)
+![alt text](images/diabetes-project.jpg)
 
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![Pandas](https://img.shields.io/badge/pandas-v1.3+-green.svg)
